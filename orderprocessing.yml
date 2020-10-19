@@ -1,0 +1,4 @@
+dbname:orderprocessing-db
+details:
+  type:rds-sql
+  servername:rds-name
